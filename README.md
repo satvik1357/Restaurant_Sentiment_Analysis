@@ -1,5 +1,5 @@
 
-````markdown
+
 # Restaurant Review Sentiment Analysis
 
 A Python-based Natural Language Processing (NLP) project to classify restaurant reviews as **Positive** or **Negative** using a **Naive Bayes classifier**. The project uses a dataset of 1000 restaurant reviews and implements data preprocessing, model training, evaluation, and prediction.
