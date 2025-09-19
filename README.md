@@ -59,7 +59,7 @@ The preprocessing steps include:
 
 **Best Parameters**:  
 - Alpha: 0.2  
-- Accuracy: 78.5%
+- Accuracy: 87.5%
 
 ---
 
@@ -67,7 +67,7 @@ The preprocessing steps include:
 
 Model evaluation metrics:
 
-- **Accuracy**: 78.5%  
+- **Accuracy**: 87.5%  
 - **Precision**: 0.76  
 - **Recall**: 0.79  
 
